@@ -2,7 +2,6 @@
     <img src="https://www.dunedinnz.com/__data/assets/image/0004/737068/code-logo.jpg" height="128">
     <h2>Mr. CODE HUNTER</h2>
     <p align="center">
-
 <p align="center">
 <img src="https://art.pixilart.com/0d92ea76c0f540a.gif" width="50"> 
 <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
