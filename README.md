@@ -27,7 +27,7 @@
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/deepakkumar"><img src="https://media.giphy.com/media/db32HzmDbjp8xWEcO0/giphy.gif" width="40"></a>
+<a href="https://www.linkedin.com/in/deepak-kumar-b3abab1a0/"><img src="https://media.giphy.com/media/db32HzmDbjp8xWEcO0/giphy.gif" width="40"></a>
 <a href="mailto:deepak9988570526@gmail.com"><img src="https://media.giphy.com/media/KyHsvh3wJFLUXwlxuR/giphy.gif" width="40"></a>
 <a href="https://www.instagram.com/deepak_0911/"><img src="https://media.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" width="35"></a>
 <a href="https://www.twitter.com/its_deepak0911/"><img src="https://media.giphy.com/media/H508mck9ufO9q6z76O/giphy.gif" width="35"></a>
