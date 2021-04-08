@@ -1,3 +1,5 @@
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <i><div align="center">
     <img src="https://www.dunedinnz.com/__data/assets/image/0004/737068/code-logo.jpg" height="128">
     <h2>Mr. CODE HUNTER</h2>
