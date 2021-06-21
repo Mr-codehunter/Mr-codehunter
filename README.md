@@ -19,7 +19,7 @@
 <a href="https://github.com/Mr-codehunter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-codehunter&hide_border=true&langs_count=10&layout=compact" />
 </a>
-</p><br>br>
+</p><br><br>
 
 
 <p align="center">
