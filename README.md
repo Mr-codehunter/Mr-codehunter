@@ -1,5 +1,8 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Mr-codehunter.Mr-codehunter)](https://github.com/Mr-codehunter) [![GitHub followers](https://img.shields.io/github/followers/Mr-codehunter.svg?style=social&label=Follow)](https://github.com/Mr-codehunter?tab=followers)
+
+
 <i><div align="center">
     <img src="https://www.dunedinnz.com/__data/assets/image/0004/737068/code-logo.jpg" height="128">
     <h2>Mr. CODE HUNTER</h2>
